@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <Client>
+    <instance id="1">
+      <id>1</id>
+      <name>Ivan Zhiharev</name>
+      <age>20</age>
+      <email>mail@mail.ru</email>
+      <addr>Paper street 1</addr>
+      <id>1</id>
+      <name>Ivan Zhiharev</name>
+      <age>20</age>
+      <email>mail@mail.ru</email>
+      <addr>Paper street 1</addr>
+      <id>1</id>
+      <name>Ivan Zhiharev</name>
+      <age>20</age>
+      <email>mail@mail.ru</email>
+      <addr>Paper street 1</addr>
+      <id>1</id>
+      <name>Ivan Zhiharev</name>
+      <age>20</age>
+      <email>mail@mail.ru</email>
+      <addr>Paper street 1</addr>
+      <id>1</id>
+      <name>Ivan Zhiharev</name>
+      <age>20</age>
+      <email>mail@mail.ru</email>
+      <addr>Paper street 1</addr>
+      <id>1</id>
+      <name>Ivan</name>
+      <age>20</age>
+      <email>mail@mail.ru</email>
+      <addr>Paper street 1</addr>
+      <id>1</id>
+      <name>Ivan</name>
+      <age>20</age>
+      <email>mail@mail.ru</email>
+      <addr>Paper street 1</addr>
+    </instance>
+    <instance id="2">
+      <id>2</id>
+      <name>Pavel Nikolaev</name>
+      <age>20</age>
+      <email>gmail@gmail.com</email>
+      <addr>Paper street 2</addr>
+      <id>2</id>
+      <name>Pavel Nikolaev</name>
+      <age>20</age>
+      <email>gmail@gmail.com</email>
+      <addr>Paper street 2</addr>
+      <id>2</id>
+      <name>Pavel Nikolaev</name>
+      <age>20</age>
+      <email>gmail@gmail.com</email>
+      <addr>Paper street 2</addr>
+      <id>2</id>
+      <name>Pavel Nikolaev</name>
+      <age>20</age>
+      <email>gmail@gmail.com</email>
+      <addr>Paper street 2</addr>
+      <id>2</id>
+      <name>Pavel Nikolaev</name>
+      <age>20</age>
+      <email>gmail@gmail.com</email>
+      <addr>Paper street 2</addr>
+      <id>2</id>
+      <name>Pavel Nikolaev</name>
+      <age>20</age>
+      <email>gmail@gmail.com</email>
+      <addr>Paper street 2</addr>
+      <id>2</id>
+      <name>Pavel Nikolaev</name>
+      <age>20</age>
+      <email>gmail@gmail.com</email>
+      <addr>Paper street 2</addr>
+    </instance>
+    <instance id="3">
+      <id>3</id>
+      <name>Denis Belavin</name>
+      <age>21</age>
+      <email>yandex@yandex.ru</email>
+      <addr>Paper street 3</addr>
+      <id>3</id>
+      <name>Denis Belavin</name>
+      <age>21</age>
+      <email>yandex@yandex.ru</email>
+      <addr>Paper street 3</addr>
+      <id>3</id>
+      <name>Denis Belavin</name>
+      <age>21</age>
+      <email>yandex@yandex.ru</email>
+      <addr>Paper street 3</addr>
+      <id>3</id>
+      <name>Denis Belavin</name>
+      <age>21</age>
+      <email>yandex@yandex.ru</email>
+      <addr>Paper street 3</addr>
+      <id>3</id>
+      <name>Denis Belavin</name>
+      <age>21</age>
+      <email>yandex@yandex.ru</email>
+      <addr>Paper street 3</addr>
+      <id>3</id>
+      <name>Denis Belavin</name>
+      <age>21</age>
+      <email>yandex@yandex.ru</email>
+      <addr>Paper street 3</addr>
+    </instance>
+  </Client>
+  <Product>
+    <instance id="2">
+      <id>2</id>
+      <name>Chair</name>
+      <price>2000</price>
+      <id>2</id>
+      <name>Chair</name>
+      <price>2000</price>
+      <id>2</id>
+      <name>Chair</name>
+      <price>2000</price>
+      <id>2</id>
+      <name>Chair</name>
+      <price>2000</price>
+      <id>2</id>
+      <name>Chair</name>
+      <price>2000</price>
+      <id>2</id>
+      <name>Chair</name>
+      <price>2000</price>
+    </instance>
+    <instance id="1">
+      <id>1</id>
+      <name>Table</name>
+      <price>1000</price>
+      <id>1</id>
+      <name>Table</name>
+      <price>1000</price>
+      <id>1</id>
+      <name>Table</name>
+      <price>1000</price>
+      <id>1</id>
+      <name>Table</name>
+      <price>1000</price>
+      <id>1</id>
+      <name>Table</name>
+      <price>1000</price>
+      <id>1</id>
+      <name>Table</name>
+      <price>1000</price>
+    </instance>
+  </Product>
+</root>
